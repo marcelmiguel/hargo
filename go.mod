@@ -1,4 +1,4 @@
-module github.com/mrichman/hargo
+module github.com/marcelmiguel/hargo
 
 require (
 	github.com/blang/semver v3.5.1+incompatible // indirect
